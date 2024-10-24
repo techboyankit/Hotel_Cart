@@ -1,0 +1,18 @@
+Sections to include:
+----- Header ( Logo, Navigation Links, Cart icon )
+      Cart content area ( list of cart items, subtotal , total
+and checkout button )
+Cart totals section displaying subtotal and total price
+footer with service icons - "High Quality"," Warranty Protection")
+
+For desktop - use a two-column layout ( where cart items are on
+the left and cart totals are on right )
+
+JS ->
+Fetch cart data from JSON api
+cart items - Product image, Product title, Price, Quantity (with 
+number input so as to update), 
+Subtotal,trash icon to remove
+
+Retrieve cart items using fetch() and populate cart page dynamically
+display prices in Indian rupee
