@@ -9,4 +9,6 @@ areas of correction required in my project, but I do assure and
 promise that I will consistently upgrade so as to counter all the
 pendencies. 
 
-And once again thanks all for providing me this opportunity.
+And once again thank you som much to everyone involved, as it was 
+truly beneficial for me to get to know how to practically apply 
+my software development concepts.
