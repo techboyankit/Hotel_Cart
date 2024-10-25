@@ -12,3 +12,5 @@ pendencies.
 And once again thank you so much to everyone involved, as it was 
 truly beneficial for me to get to know how to practically apply 
 my software development concepts.
+
+![Screenshot (738)](https://github.com/user-attachments/assets/bd81f900-4ca1-4f87-842a-d9bc9f077cea)
